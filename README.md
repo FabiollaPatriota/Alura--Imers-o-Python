@@ -29,8 +29,8 @@ _Se você está visitando meu repositório, este não tem o intuito de dissemina
 #### Links importantes:
 - [O que é Google Colab?](https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?_gl=1*lnx4hk*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTc5OTEzOS4yLjEuMTcxMTc5OTEzOS4wLjAuMA..*_fplc*MVJvNjBTcDV2OVFLQzYlMkJtTW9LbkR2MEFPZUhZT1VDbmlsazJmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyRmU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..) 🖥️
 - [Pandas Python: o que é, pra que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar?_gl=1*1ta4ie5*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTc5OTEzOS4yLjEuMTcxMTc5OTQ5OS4wLjAuMA..*_fplc*MVJvNjBTcDV2OVFLQzYlMkJtTW9LbkR2MEFPZUhZT1VDbmlsazJmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyR.mU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..) 🐼
-- [Guia de Python](https://www.alura.com.br/artigos/python?_gl=1*1o36gju*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTc5OTEzOS4yLjEuMTcxMTc5OTQ5OS4wLjAuMA..*_fplc*MVJvNjBTcDV2OVFLQzYlMkJtTW9LbkR2MEFPZUhZT1VDbmlsazJmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyRmU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..) 🐍
-JmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyRmU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..)
+- [Guia de Python](https://www.alura.com.br/artigos/python?_gl=1*8k8drf*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTc5OTEzOS4yLjEuMTcxMTgwMDg4Ny4wLjAuMA..*_fplc*MVJvNjBTcDV2OVFLQzYlMkJtTW9LbkR2MEFPZUhZT1VDbmlsazJmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyRmU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..) 🐍
+
 
 ### Desafio da Aula 02:
 - Crie um gráfico de barras olhando a faixa etária e o valor da variação;
