@@ -1,5 +1,11 @@
 # Imersão Python: Do Excel à Análise de Dados 🐍
 
+Neste repositório, você encontrará recursos e informações relacionadas à Imersão Python oferecida pela Alura. O conteúdo abrange desde análise exploratória de dados até previsão de séries temporais, utilizando diversas ferramentas e bibliotecas.
+
+_Se você está visitando este repositório, saiba que ele foi criado com o objetivo de documentar meu aprendizado e não visa disseminar pirataria ou obter créditos sobre o conteúdo da Alura, que foi disponibilizado gratuitamente no YouTube._
+
+# Imersão Python: Do Excel à Análise de Dados 
+
 Neste repositório haverá alguns links e descrições das aulas que achei necessário documentar parar obter acesso no futuro, já que a platafora estaria disponível por tempo limitado, para revisão do meu próprio aprendizado se necessário.
 
 _Se você está visitando meu repositório, este não tem o intuito de disseminar pirataria ou obter créditos em cima do conteúdo da Alura. O programa foi gratuito e está disponível no Youtube._
@@ -14,15 +20,15 @@ _Se você está visitando meu repositório, este não tem o intuito de dissemina
   - Link da [aula 01 - YouTube](https://www.youtube.com/watch?v=Jobhi7Y1hm0)
   
 **Links Importantes:**
-  - [Guia de mergulho da Imersão Python!](https://grupoalura.notion.site/Imers-o-Python-Guia-de-Mergulho-ae1e885ff4d9474b8eb4d6bf1a5da26d#5f2cd8b4a7aa42ad8adb73c5181c9cef) 📘
-  - [Acesse o Discord](https://discord.com/invite/ufWe22wMjf) 💬
-  - Acesse o Google Sheets [aqui](https://docs.google.com/spreadsheets/u/0/) 📊
+  - [Guia de mergulho da Imersão Python!](https://grupoalura.notion.site/Imers-o-Python-Guia-de-Mergulho-ae1e885ff4d9474b8eb4d6bf1a5da26d#5f2cd8b4a7aa42ad8adb73c5181c9cef) 
+  - [Acesse o Discord](https://discord.com/invite/ufWe22wMjf) 
+  - Acesse o Google Sheets [aqui](https://docs.google.com/spreadsheets/u/0/) 
   
 ### Desafio da Aula 01:
   - Fazer os cálculos com as colunas de porcentagem (variação semanal; mensal; anual e 12 meses);
   - Pegar via Chat GPT as faixas de idade;
   - Pedir para o GPT gerar a fórmula IF para as faixas de idade.
-  - Faça uma cópia da planilha utilizada para a análise [aqui](https://docs.google.com/spreadsheets/d/1sGaR2Nkfi025rTzztCyDX7q-ZztHsK7U_SqXQr76dQ4/edit?usp=drive_link) 📄
+  - Faça uma cópia da planilha utilizada para a análise [aqui](https://docs.google.com/spreadsheets/d/1sGaR2Nkfi025rTzztCyDX7q-ZztHsK7U_SqXQr76dQ4/edit?usp=drive_link) 
 
 
 
@@ -36,9 +42,9 @@ _Se você está visitando meu repositório, este não tem o intuito de dissemina
   - Link da [aula 02 - YouTube](https://www.youtube.com/watch?v=o0hJweYM298)
 
 **Links importantes:**
-  - [O que é Google Colab?](https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?_gl=1*lnx4hk*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTc5OTEzOS4yLjEuMTcxMTc5OTEzOS4wLjAuMA..*_fplc*MVJvNjBTcDV2OVFLQzYlMkJtTW9LbkR2MEFPZUhZT1VDbmlsazJmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyRmU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..) 🖥️
-  - [Pandas Python: o que é, pra que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar?_gl=1*1ta4ie5*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTc5OTEzOS4yLjEuMTcxMTc5OTQ5OS4wLjAuMA..*_fplc*MVJvNjBTcDV2OVFLQzYlMkJtTW9LbkR2MEFPZUhZT1VDbmlsazJmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyR.mU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..) 🐼
-  - [Guia de Python](https://www.alura.com.br/artigos/python?_gl=1*8k8drf*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTc5OTEzOS4yLjEuMTcxMTgwMDg4Ny4wLjAuMA..*_fplc*MVJvNjBTcDV2OVFLQzYlMkJtTW9LbkR2MEFPZUhZT1VDbmlsazJmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyRmU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..) 🐍
+  - [O que é Google Colab?](https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?_gl=1*lnx4hk*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTc5OTEzOS4yLjEuMTcxMTc5OTEzOS4wLjAuMA..*_fplc*MVJvNjBTcDV2OVFLQzYlMkJtTW9LbkR2MEFPZUhZT1VDbmlsazJmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyRmU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..) 
+  - [Pandas Python: o que é, pra que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar?_gl=1*1ta4ie5*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTc5OTEzOS4yLjEuMTcxMTc5OTQ5OS4wLjAuMA..*_fplc*MVJvNjBTcDV2OVFLQzYlMkJtTW9LbkR2MEFPZUhZT1VDbmlsazJmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyR.mU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..) 
+  - [Guia de Python](https://www.alura.com.br/artigos/python?_gl=1*8k8drf*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTc5OTEzOS4yLjEuMTcxMTgwMDg4Ny4wLjAuMA..*_fplc*MVJvNjBTcDV2OVFLQzYlMkJtTW9LbkR2MEFPZUhZT1VDbmlsazJmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyRmU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..) 
 
 ### Desafio da Aula 02:
   - Crie um gráfico de barras olhando a faixa etária e o valor da variação;
@@ -80,7 +86,7 @@ _Se você está visitando meu repositório, este não tem o intuito de dissemina
   
 
 
-# Aula 04
+# Aula 04: Análises Avançadas de Ações e Gráficos de Velas
   - Criar gráficos de velas;
   - Aprender a fazer gráficos interativos com Plotly.
   - [Código da Aula 04 - Google Collab](https://colab.research.google.com/drive/1TrL6SbbMoZkh-8ATijWx9N8cQeTl-U4J?usp=sharing)
@@ -106,7 +112,7 @@ _Se você está visitando meu repositório, este não tem o intuito de dissemina
   - [Conheça o Yahoo Finanças](https://br.financas.yahoo.com/quote/%5EBVSP?p=%5EBVSP)
 
 
-# Aula 05
+# Aula 05: Previsão de Séries Temporais de Ações e Carreiras no Mercado de Dados
   - Ter uma introdução ao Machine Learning;
   - Revisar ferramentas aprendidas durante a Imersão;
   - Conhecer mais sobre as carreiras no mercado de dados.
@@ -120,7 +126,21 @@ _Se você está visitando meu repositório, este não tem o intuito de dissemina
   - [O que é Machine Learning](https://www.alura.com.br/artigos/machine-learning?_gl=1*hibe1e*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTgzNjA2OS41LjEuMTcxMTgzNjA2OS4wLjAuMA..*_fplc*MVJvNjBTcDV2OVFLQzYlMkJtTW9LbkR2MEFPZUhZT1VDbmlsazJmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyRmU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..)
   - [Desmitificando termos de Machile Learning](https://www.alura.com.br/artigos/desmistificando-termos-machine-learning?_gl=1*1qivfym*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTgzNjA2OS41LjEuMTcxMTgzNjA2OS4wLjAuMA..*_fplc*MVJvNjBTcDV2OVFLQzYlMkJtTW9LbkR2MEFPZUhZT1VDbmlsazJmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyRmU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..)
   - [Carreira de Machine Learning em Berlim | Scuba Ponto Dev](https://www.alura.com.br/artigos/desmistificando-termos-machine-learning?_gl=1*1qivfym*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTgzNjA2OS41LjEuMTcxMTgzNjA2OS4wLjAuMA..*_fplc*MVJvNjBTcDV2OVFLQzYlMkJtTW9LbkR2MEFPZUhZT1VDbmlsazJmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyRmU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..)
-  - [Tipos de aprendizagem com a IA em Machine Learning](https://www.alura.com.br/artigos/quais-sao-tipos-aprendizagem-ia-inteligencia-artificial?_gl=1*mqy5l*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTgzNjA2OS41LjEuMTcxMTgzNjA2OS4wLjAuMA..*_fplc*MVJvNjBTcDV2OVFLQzYlMkJtTW9LbkR2MEFPZUhZT1VDbmlsazJmMExscTNpbm9LMyUyQlolMkY1dXp1d2h1WHpublNrcjJENHU2bkFld25NTiUyRmU2bDVNRVMzcUlmUzY0ZklETUUyRmtmWHFEamhuSTlXckJqRmhnJTJGakhLanlsU2tmZyUzRCUzRA..)
+  - [Tipos de aprendizagem com a IA em Machine Learning](https://www.alura.com.br/artigos/quais-sao-tipos-aprendizagem-ia-inteligencia-artificial?_gl=1*mqy5l*_ga*NDc2MzkyNzIxLjE3MTE3OTYwMzY.*_ga_1EPWSW3PCS*MTcxMTgzNjA2OS41LjEuMTc
+
+## Sobre a Imersão Python:
+A Imersão Python é uma iniciativa da Alura que visa ensinar Python do zero e aplicá-lo em análise de dados. Ao longo de cinco aulas, os participantes exploram desde análises exploratórias até previsão de séries temporais, tudo de forma prática e acessível.
+
+Se você gostou da Imersão Python, confira outros cursos da Alura em [www.alura.com.br](https://www.alura.com.br/).
+
+**Instrutores:**
+- Fabrício Carraro
+- David Camurça
+- Matheus Freitas
+  
+**Agradecimentos:**
+Um agradecimento especial à equipe da Alura por disponibilizar esse conteúdo incrível e proporcionar oportunidades de aprendizado tão valiosas para a comunidade.
+
 
 
 
